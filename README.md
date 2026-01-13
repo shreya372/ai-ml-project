@@ -22,9 +22,9 @@ Workout Routines: Suggested physical activities.
 Language: Python 3
 
 Libraries:
-pandas (Data manipulation) 
-numpy (Numerical operations) 
-sklearn (Machine Learning models and preprocessing) 
+pandas (Data manipulation),
+numpy (Numerical operations), 
+sklearn (Machine Learning models and preprocessing), 
 pickle (Model serialization) 
 
 📂 Dataset & Prerequisites
